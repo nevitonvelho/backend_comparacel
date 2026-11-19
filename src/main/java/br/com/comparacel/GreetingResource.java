@@ -1,4 +1,4 @@
-package org.acme;
+package br.com.comparacel;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

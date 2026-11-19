@@ -1,4 +1,4 @@
-package org.acme;
+package br.com.comparacel;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
